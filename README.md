@@ -1,4 +1,4 @@
-# sudoku-game
+# Sudoku-Game
 
 A web-based Sudoku game built with HTML, CSS, and JavaScript.
 
